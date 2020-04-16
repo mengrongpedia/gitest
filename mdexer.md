@@ -27,3 +27,15 @@
 
 
 <strong>` 希望我可以ALL PASS `</strong>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>嗨老師</title>
+</head>
+<body>
+<h1>Hello Teacher</h1>
+</body>
+</html>
